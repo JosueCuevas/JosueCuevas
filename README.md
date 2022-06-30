@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **database like mongoDB and SQL**
 
-- 📝 I regularly write articles on [josuecuevas.com/search](josuecuevas.com/search)
+- 📝 I regularly write articles on [here](https://josuecuevas.com/search)
 
 - 💬 Ask me about **HTML, CSS, JS and Node.js, UI/UX design**
 
