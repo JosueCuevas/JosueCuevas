@@ -1,9 +1,10 @@
+![Banner](https://josuecuevas.com/assets/banner.png)
 <h1 align="center">Hi 👋, I'm Josué Cuevas</h1>
 <h3 align="center">A passionate frontend and backend developer from Mexico</h3>
 
 - 🔭 I’m currently working on [my personal branch](https://www.josuecuevas.com/acerca-de-mi/)
 
-- 🌱 I’m currently learning **Tailwind CSS, React and MongoDB**
+- 🌱 I’m currently learning **Tailwind CSS and React.js**
 
 - 👯 I’m looking to collaborate on **every interesting project and every developer ;)**
 
