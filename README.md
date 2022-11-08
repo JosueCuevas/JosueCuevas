@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **every interesting project and every developer ;)**
 
-- 🤝 I’m looking for help with **database like mongoDB and SQL**
+- 🤝 I’m looking for help with **my linkedIn profile and making a good CV** :D
 
 - 📝 I regularly write articles on [here](https://josuecuevas.com/search)
 
