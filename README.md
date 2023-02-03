@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my personal branch](https://www.josuecuevas.com/acerca-de-mi/)
 
-- 🌱 I’m currently learning **Tailwind CSS and React.js**
+- 🌱 I’m currently learning **Bootstrap 5**
 
 - 👯 I’m looking to collaborate on **every interesting project and every developer ;)**
 
