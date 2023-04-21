@@ -1,4 +1,4 @@
-![Banner](https://josuecuevas.com/assets/banner.png)
+<div align="center">![Banner](https://josuecuevas.com/assets/banner.png)</div>
 <h1 align="center">Hi 👋, I'm Josué Cuevas</h1>
 <h3 align="center">A passionate frontend and backend developer from Mexico</h3>
 
