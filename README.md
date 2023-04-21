@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my personal branch](https://www.josuecuevas.com/acerca-de-mi/)
 
-- 🌱 I’m currently learning **Bootstrap 5**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **every interesting project and every developer ;)**
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [here](https://josuecuevas.com/search)
 
-- 💬 Ask me about **HTML, CSS, JS and Node.js, UI/UX design**
+- 💬 Ask me about **HTML, CSS, JS, React.js, Typescript and Node.js, UI/UX design **
 
 - 📫 How to reach me **hola@josuecuevas.com**
 
