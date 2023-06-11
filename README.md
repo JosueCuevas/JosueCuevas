@@ -1,5 +1,5 @@
 
-<img align="center" style="width:100vw;"src="https://res.cloudinary.com/dokbqdk6g/image/upload/v1685680635/josuecuevas-com/banner_kwadts.png" alt="Banner"/>
+<img align="center" style="width:100vw;" src="https://res.cloudinary.com/dokbqdk6g/image/upload/v1685680635/josuecuevas-com/banner_kwadts.png" alt="Banner"/>
 <!--   ![Banner](https://josuecuevas.com/assets/banner.png) -->
 <h1 align="center">Hi 👋, I'm Josué Cuevas</h1>
 <h3 align="center">A passionate frontend and backend developer from Mexico</h3>
