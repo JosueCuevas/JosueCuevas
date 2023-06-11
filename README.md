@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [here](https://josuecuevas.com/search)
 
-- 💬 Ask me about **HTML, CSS, JS, React.js, Typescript and Node.js, UI/UX design **
+- 💬 Ask me about **HTML, CSS, JS, React.js, Typescript and Node.js, UI/UX design**
 
 - 📫 How to reach me **hola@josuecuevas.com**
 
