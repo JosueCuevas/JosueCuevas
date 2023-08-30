@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my personal branch](https://www.josuecuevas.com/acerca-de-mi/)
 
-- 🌱 I’m currently learning **Shopify**
+- 🌱 I’m currently learning **Vue**
 
 - 👯 I’m looking to collaborate on **every interesting project and every developer ;)**
 
