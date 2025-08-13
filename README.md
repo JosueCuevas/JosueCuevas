@@ -4,21 +4,21 @@
 <h1 align="center">Hi 👋, I'm Josué Cuevas</h1>
 <h3 align="center">A passionate frontend and backend developer from Mexico</h3>
 
-- 🔭 I’m currently working on [my personal branch](https://www.josuecuevas.com/acerca-de-mi/)
+- 🔭 I’m currently working on [xira](https://xira.ai) but also I keep working on my [personal brand](https://josuecuevas.com)
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **every interesting project and every developer ;)**
+- 👯 I’m looking to collaborate on **ai projects**
 
 - 🤝 I’m looking for help with **my linkedIn profile and making a good CV** :D
 
-- 📝 I regularly write articles on [here](https://josuecuevas.com/search)
+- 📝 I regularly write articles on [here](https://josuecuevas.com/#abuot)
 
-- 💬 Ask me about **HTML, CSS, JS, React.js, Typescript and Node.js, UI/UX design**
+- 💬 Ask me about **Frontend with React JS, Backend with Typescript and Node.js, UI/UX design and AI**
 
 - 📫 How to reach me **hola@josuecuevas.com**
 
-- ⚡ Fun fact **I'm a musician and I love cylcing 🚲**
+- ⚡ Fun fact **I'm a musician 🎶🎸, I have my own band and I'm learning Ukrainian 🇺🇦**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
