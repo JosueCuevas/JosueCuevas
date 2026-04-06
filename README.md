@@ -1,11 +1,10 @@
 
 <img align="center" style="width:100vw;" src="https://res.cloudinary.com/dokbqdk6g/image/upload/v1685680635/josuecuevas-com/banner_kwadts.png" alt="Banner"/>
 <!--   ![Banner](https://josuecuevas.com/assets/banner.png) -->
-# Hi, I'm Josué Cuevas 👋
 
-Full Stack Engineer focused on building scalable web applications, real-time systems, and AI-driven products.
-
-I enjoy turning ambiguous business problems into reliable technical solutions.
+<h1 align="center">Hi, I'm Josué Cuevas 👋</h1>
+<h3 align="center">Full Stack Engineer focused on building scalable web applications, real-time systems, and AI-driven products.</h3>
+<h3 align="center">I enjoy turning ambiguous business problems into reliable technical solutions.</h3>
 
 ---
 
