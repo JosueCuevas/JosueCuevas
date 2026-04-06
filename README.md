@@ -112,6 +112,6 @@
 ## ⚡ Fun / Personal 
 
 - 🎯 Play bass, cycling 🚴‍♀️, food 🌶 
-- 🌎 I've lived in 🇲🇽 🇺🇦, I've visit 🇪🇸 🇳🇱 🇵🇱, I wanna visit South America
+- 🌎 I've lived in 🇲🇽 🇺🇦, I've visited 🇪🇸 🇳🇱 🇵🇱, I wanna visit South America
 
 
