@@ -3,8 +3,8 @@
 <!--   ![Banner](https://josuecuevas.com/assets/banner.png) -->
 
 <h1 align="center">Hi, I'm Josué Cuevas 👋</h1>
-<h3 align="center">Full Stack Engineer focused on building scalable web applications, real-time systems, and AI-driven products.</h3>
-<h3 align="center">I enjoy turning ambiguous business problems into reliable technical solutions.</h3>
+<h2 align="start">Full Stack Engineer focused on building scalable web applications, real-time systems, and AI-driven products.</h3>
+<h3 align="start">I enjoy turning ambiguous business problems into reliable technical solutions.</h3>
 
 ---
 
@@ -114,8 +114,4 @@
 - 🎯 Play bass, cycling 🚴‍♀️, food 🌶 
 - 🌎 I've lived in 🇲🇽 🇺🇦, I've visit 🇪🇸 🇳🇱 🇵🇱, I wanna visit South America
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/josuecuevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josuecuevs" height="30" width="40" /></a>
-</p>
 
