@@ -105,7 +105,7 @@
 
 - 🌐 Website: https://josuecuevas.com  
 - 💼 LinkedIn: https://linkedin.com/in/josuecuevas  
-- 🐦 Twitter: https://github.com/josuecuevas  
+- 🐦 X: https://x.com/josuecuevs  
 
 ---
 
