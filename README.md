@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 💻 3+ years building production systems (up to ~1M monthly users)
+- 💻 4+ years building production systems (up to ~1M monthly users)
 - 🧠 Strong backend focus (Node.js, APIs, performance, architecture)
 - ⚡ Experience with real-time systems (WebSockets, AI interactions)
 - 🏗️ End-to-end product ownership (architecture → production → maintenance)
